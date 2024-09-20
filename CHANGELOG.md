@@ -1,5 +1,4 @@
-#### v1.2
+#### v1.2.1
 
-* Fix byte-swapped MAC address (GMAC, all platforms).
-* SOQUARTZ: drive nEXTRST high on boot (#63).
-* Update edk2 to edk2-stable202305.
+* RK356x: add additional timeouts to MshcDxe
+* Add PINETAB2 artifact to release
